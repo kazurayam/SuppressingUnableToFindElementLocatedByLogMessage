@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC3 waitForElementPresent</name>
+   <name>TC3 waitForElementPresent, log level is tuned to make it less verbose</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>427eec59-a1fc-43bc-93ec-36623c59e2d5</testCaseGuid>
