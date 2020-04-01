@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2 verifyElementPresent failed to find a button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a4318d4-8a39-4840-b435-25f626dcec8f</testCaseGuid>
+</TestCaseEntity>
